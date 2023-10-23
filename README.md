@@ -1,1 +1,1 @@
-Uygulamayı deneyimlenemiz için github page linki: https://aysemineokyay.github.io/emoji-search/
+Uygulamayı deneyimlemeniz için github page linki: https://aysemineokyay.github.io/emoji-search/
